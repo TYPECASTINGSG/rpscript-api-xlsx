@@ -23,8 +23,9 @@
     "publish": "tsc && npm publish"
   },
   "dependencies": {
-    "rpscript-interface": "^0.5.3",
-    "xlsx": "^0.13.1"
+    "rpscript-interface": "^0.5.8",
+    "xlsx": "^0.13.1",
+    "ramda": "^0.25.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.4",
